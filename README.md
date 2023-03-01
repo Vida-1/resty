@@ -8,9 +8,8 @@
 ### Links and Resources
 
 - [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
-- [Reading Notes ## -Topic](https://vida-1.github.io/reading-notes/read##_401.html)
+- [Reading Notes 26 -Component Based UI](https://vida-1.github.io/reading-notes/read26_401.html)
 - 
 ### Setup
 
