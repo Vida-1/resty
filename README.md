@@ -1,14 +1,14 @@
 
-# LAB - Class xx
+# LAB - Class 26
 
-## Project: Project Name Here
+## Project: Resty: React Functional Component UI
 
 ### Author: Vida P.
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [front-end application](http://xyz.com) (when applicable)
+- [ci/cd](https://github.com/Vida-1/resty/actions/new) GitHub Actions
+<!-- - [front-end application](http://xyz.com) (when applicable) -->
 - [Reading Notes 26 -Component Based UI](https://vida-1.github.io/reading-notes/read26_401.html)
 - 
 ### Setup
@@ -20,26 +20,24 @@ i.e.
 - `PORT` - Port Number
 - `DATABASE_URL` - URL to the running Postgres instance/db
 
-npm init - to create a package.json file
-npm install nodemon - lets you run your server locally (may need to be installed multiple times while working on a project)
-npm install prettierrc - a linter that only seems to exist to break stuff
+npx create-react-app resty --template typescript 
+npm install
 npm install jest - lets you use jest to test your code
-npm install supertest - lets you use some special part of jest to test your code (something to do with grouping things together and/or "describe" look it up!
-npm install express - lets you instantiate an express server
+
 
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+npm start
 
 #### How to use your library (where applicable)
 
 #### Tests
-
+<!--
 - How do you run tests?
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+Link to an image of the UML for your application and response to events -->
