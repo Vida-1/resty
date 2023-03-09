@@ -1,3 +1,5 @@
+import './Results.scss';
+
 const Results = (props: { data: any; }) => {
   return (
     <section>
